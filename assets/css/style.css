@@ -1,0 +1,31 @@
+.centerContent {
+	align-content: center;
+	text-align: center;
+}
+
+#timer {
+	font-size: 200%;
+	font-weight: bold;
+	display: none;
+}
+
+#quizResults {
+	display: none;
+}
+
+#done {
+
+	display: none;
+}
+
+#questionBlock {
+
+	display: none;
+
+}
+
+#stupidButton {
+
+	margin:20px;
+	padding:20px;
+}
