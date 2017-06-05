@@ -3,6 +3,31 @@
 	text-align: center;
 }
 
+.halftoneBackground {
+
+	background: url(../images/background_halftone.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body {
+
+	background: url(../images/backgroundMarvel.jpg);
+
+}
+
+h1 {
+
+	font-family: 'Bungee Inline', cursive;
+	color: white !important;
+}
+
+#status {
+
+	font-family: 'Walter Turncoat', cursive;
+	font-size: 200%;
+}
+
 #timer {
 	font-size: 200%;
 	font-weight: bold;
